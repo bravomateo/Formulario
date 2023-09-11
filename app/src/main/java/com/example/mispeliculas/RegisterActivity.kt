@@ -17,6 +17,8 @@ class RegisterActivity : AppCompatActivity() {
     private lateinit var registerBinding: ActivityRegisterBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        Thread.sleep(4000)
+        setTheme(R.style.Theme_MisPeliculas)
         super.onCreate(savedInstanceState)
         registerBinding = ActivityRegisterBinding.inflate(layoutInflater)
         val view = registerBinding.root
