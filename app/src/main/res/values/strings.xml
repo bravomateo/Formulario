@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="rep_password">Repetir contraseña</string>
+    <string name="register">Registrar</string>
+    <string name="info">Información</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="favorites_genre">Seleccione su genero favorito</string>
+    <string name="genre_love">Amor</string>
+    <string name="genre_terror">Terror</string>
+    <string name="genre_action">Acción</string>
+    <string name="genre_fantasy">Fantasia</string>
+    <string name="genre_drama">Drama</string>
+    <string name="genre_adventure">Aventura</string>
+    <string name="genre_comic">Humor</string>
+    <string name="name">Nombre</string>
+</resources>

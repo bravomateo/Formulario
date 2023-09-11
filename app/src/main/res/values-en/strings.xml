@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="rep_password">Repeat password</string>
+    <string name="register">To Register</string>
+    <string name="info">Información</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="favorites_genre">Seleccione su genero favorito</string>
+    <string name="genre_love">Amor</string>
+    <string name="genre_terror">Terror</string>
+    <string name="genre_action">Acción</string>
+    <string name="genre_fantasy">Fantasia</string>
+    <string name="genre_drama">Drama</string>
+    <string name="genre_adventure">Aventura</string>
+    <string name="genre_comic">Humor</string>
+</resources>
+
